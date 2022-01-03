@@ -31,3 +31,11 @@
   "The paradox is we will grow only after those mistakes which form the integrity of all lives."
 
   Please moving forward
+
+
+
+* One lives with a true peaceful mindset inside would never seek happiness from outside, which is ironic for those who are looking for a calmness moment and harmony by extra activities - listening, learning, and sometimes physical training, because the pleasure, joyfulness,delight are already there.
+
+  内心真正拥有平静的人永远不会从外部寻求幸福，这对于那些通过额外的活动（聆听、学习，有时甚至是体育锻炼）寻求平静与和谐的人来说具有讽刺意味。
+
+​       
