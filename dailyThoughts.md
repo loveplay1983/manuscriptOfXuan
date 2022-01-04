@@ -1,36 +1,62 @@
 * We are human beings, therefore, both sorrow and joy ought to be there. the fact is you have to learn how to control it, move on, shine others instead of being illuminated by others.   
 
-  To be the person who can shine others as the sun shines in the universe is what should be following.
+  To be the person who can shine others as the sun shines in the universe is what should be followed.
 
   To live is to find the truth, which is to be a good entity. 
 
   That's simple, we are chasing our final destiny that is to be someone - a good man. 
 
-  The Question is how can we find the reasonable definition of being a good man. 
+  The question is how can we find a reasonable definition of being a good man. 
 
   It is perplexed sometimes since the context differs.
+  
+  我们是人，所以悲伤和快乐都应该在那里。 事实是你必须学会如何控制它，继续前进，照亮别人，而不是被别人照亮。
+  
+  做一个能像太阳照耀宇宙一样照耀别人的人，才是应该遵循的。
+  
+  活着就是要找到真相，就是做一个好人。
+  
+  这很简单，我们正在追逐我们最终的命运，那就是成为某个人——一个好人。
+  
+  问题是我们如何才能找到一个合理的解释来定义一个好人。
+  
+  由于所处环境的不同，有时会感到困惑。
 
 
 
 * To live is to grow, without learning and creating, everything is boring. 
 
+  活着就是成长，没有学习和创造，一切都是枯燥乏味的。
 
 
-* First, it is rather crucial to point out, the primary goal is to maintain a healthy body while reducing the body weight, therefore, sufficient nutrition must be taken place, in other words, one ought to eat regularly instead of cutting down the amount of food that he or she used to take. The tricky part is to filter out high calorie while absorbing the fiber-rich food. 
 
-  Second, self-discipline, one of the most important aspects. One must start exercising and make it into a daily habit. Take, for example, beginning with 1 mile jogging, and then 2 miles, 3 miles, gradually increase the # of miles. Do not rush, do not hesitate.
+* First, it is rather crucial to point out, the primary goal is to maintain a healthy body while reducing body weight, therefore, sufficient nutrition must be taken place, in other words, one ought to eat regularly instead of cutting down the amount of food that he or she used to take. The tricky part is to filter out high calories while absorbing the fiber-rich food. 
 
-  Third, but not the last, keep listening to motivational speech, reading tons of books, in order to help you running through all the difficulties. 
+  Second, self-discipline, one of the most important aspects. One must start exercising and make it into a daily habit. Take, for example, beginning with 1-mile jogging, and then 2 miles, 3 miles, gradually increasing the # of miles. Do not rush, do not hesitate.
 
-  There are many more items in the toolkit of weight loss, these are the 3 major I have been practicing this far. Remember, people and things in the past can be remembered, but please don't look back.
+  Third, but not the last, keep listening to motivational speeches, reading tons of books, in order to help you run through all the difficulties. 
 
-  
+  There are many more items in the toolkit of weight loss, these are the 3 majors I have been practicing this far. Remember, people and things in the past can be remembered, but please don't look back.
+
+  首先需要指出的是，减肥的首要目标是保持健康的体魄，因此，一定要做到营养充足，也就是说，应该规律饮食，而不是减少食物的摄入量。 棘手的部分是在吸收富含纤维的食物的同时过滤掉高热量。
+
+  第二，自律，最重要的方面之一。 一个人必须开始锻炼并使其成为一种日常习惯。 例如，从 1 英里慢跑开始，然后是 2 英里、3 英里，逐渐增加英里数。 不要着急，不要犹豫。
+
+  第三，但不是最后，继续听励志演讲，阅读大量书籍，以帮助您度过所有困难。
+
+  减肥工具集里包含的内容还有很多， 这三个方面是目前主要的练习。 记住，过去的人和事可以记住，但请不要回头。
 
 * One of my friends told me: "One must be conscious of the decision of life. " 
 
   "The paradox is we will grow only after those mistakes which form the integrity of all lives."
 
-  Please moving forward
+  Please moving forward !!! 😇
+  
+  我的一位朋友告诉我：“一个人必须时刻觉察自己的人生决定。”
+  
+  “矛盾的是，只有在经历那些构成所有生命完整性的错误之后，我们才会成长。”
+  
+  请保持前进！！！😇
 
 
 
@@ -44,3 +70,12 @@
 
 ​       
 
+* Living to us is piano-playing do to the player, we strike the keys passionately for miscellaneous music genres. The fact is, one must keep playing until the fingers fall off before taking a bow.
+
+  生活对我们来说就像钢琴演奏对演奏者一样，我们为各种音乐流派热情地敲击琴键。 事实是，在谢幕之前，必须一直弹奏直到手指脱落。
+
+  ![](https://www.oregonlive.com/resizer/23iTMm8RaQ4pe_Ys5KdujlNK0fM=/500x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/R7GTECJ3HFFV3AAPDPCPTOOBJY.jpg)
+
+
+
+* To be continue...
