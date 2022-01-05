@@ -78,8 +78,8 @@
 
 
 
-* "Adding new page for your notebook, there is no space to commit fresh content otherwise."
+* "Adding pages for your notebook, there will be no new content otherwise."
 
-  “为你的笔记本翻开新的一页，否则怎么添加新鲜内容呢。”
+  “为你的笔记本添加新页，否则将没有新的内容。”
 
   ![](https://yourmoneygeek.com/wp-content/uploads/2021/02/Write-a-book.jpg)
