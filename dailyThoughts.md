@@ -83,3 +83,21 @@
   “为你的笔记本添加新页，否则将没有新的内容。”
 
   ![](https://yourmoneygeek.com/wp-content/uploads/2021/02/Write-a-book.jpg)
+
+
+
+* "It may be important to great thinkers to examine the world, and despise it.
+  But I think it is only important to love the world, not to despise it, not for us to hate each other, but to be able to regard the world and ourselves and all beings with love, admiration, and respect. "
+
+  对伟大的思想家来说，如何审视这个世界似乎是重要的事情。
+  但我认为，重要的是爱这个世界，而不是去讨厌它，非互相憎恨，而是能够以爱、钦佩之情和尊重来看待这个世界，我们自己以及所有芸芸众生。
+
+  ![](./images/world.png)
+
+  
+  
+* "Words do not express thoughts very well because of their essence of cunningness, they always become a little different immediately after they are conveyed. A little distorted, a little foolish."
+
+  “文字因为狡猾的本质而不能很好地表达思想，总是在传达后立即变得有点不同。有点扭曲，有点愚蠢。”
+
+  ![](https://www.languageoasis.com/blog/wp-content/uploads/2015/01/Bizarre-Languages.png)
