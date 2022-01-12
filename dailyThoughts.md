@@ -101,3 +101,7 @@
   “文字因为狡猾的本质而不能很好地表达思想，总是在传达后立即变得有点不同。有点扭曲，有点愚蠢。”
 
   ![](https://www.languageoasis.com/blog/wp-content/uploads/2015/01/Bizarre-Languages.png)
+  
+  
+* "It is hard to tell the exact feeling when cold and warm collide as in the person who crosses the hands in the winter."
+  "当寒冷和温暖碰撞时，就像冬天交叉双手的人一样，很难说出确切的感觉。"
