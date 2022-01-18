@@ -151,3 +151,15 @@
   旋律、歌曲，有很多，人们总是不明白其中的内涵；
   追忆、怀旧，交织着错综复杂的情绪，开始领悟其中的寓意；
   过去、现在和未来，时间线的实体，但它不是直的，而是高斯的。 人们通过“累积分布函数”观察我们，而“概率密度函数”是真相所在。 "
+  
+  > ## cdf - Cumulative Distributed Function   $Integral$
+  > ## pdf - Probability Density Function         $Derivative$
+  >
+  > **People often observe us through the outcome or a cumulative outline, the figure, the image.**
+  >
+  > **But the truth is at the current moment, which the derivative stands for. **
+  >
+  > **This is called "philosophy + Math"**
+  >
+  > __Fantastic, isn't it?__
+  > __Life is simply formed with all those entities.__ 
