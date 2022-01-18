@@ -9,17 +9,17 @@
   The question is how can we find a reasonable definition of being a good man. 
 
   It is perplexed sometimes since the context differs.
-  
+
   我们是人，所以悲伤和快乐都应该在那里。 事实是你必须学会如何控制它，继续前进，照亮别人，而不是被别人照亮。
-  
+
   做一个能像太阳照耀宇宙一样照耀别人的人，才是应该遵循的。
-  
+
   活着就是要找到真相，就是做一个好人。
-  
+
   这很简单，我们正在追逐我们最终的命运，那就是成为某个人——一个好人。
-  
+
   问题是我们如何才能找到一个合理的解释来定义一个好人。
-  
+
   由于所处环境的不同，有时会感到困惑。
 
 
@@ -51,11 +51,11 @@
   "The paradox is we will grow only after those mistakes which form the integrity of all lives."
 
   Please moving forward !!! 😇
-  
+
   我的一位朋友告诉我：“一个人必须时刻觉察自己的人生决定。”
-  
+
   “矛盾的是，只有在经历那些构成所有生命完整性的错误之后，我们才会成长。”
-  
+
   请保持前进！！！😇
 
 
@@ -63,9 +63,9 @@
 * One lives with a true peaceful mindset inside would never seek happiness from outside, which is ironic for those who are looking for a calm moment and harmony by extra activities - listening, learning, and sometimes physical training, because the pleasure, joyfulness, delight is already there.
 
   内心真正拥有平静的人永远不会从外部寻求幸福，这对于那些通过额外的活动（聆听、学习，有时甚至是体育锻炼）寻求平静与和谐的人来说具有讽刺意味。
-  
+
   It is a little bit contradicting for things that we used to understand, the fact is, we are, living under the same dome which is full of collisions. 
-  
+
   对于我们过去所理解的概念来说有点矛盾，事实是，我们生活在同一个充满碰撞的穹顶之下。
 
 ​       
@@ -95,16 +95,16 @@
   ![](./images/world.png)
 
   
-  
+
 * "Words do not express thoughts very well because of their essence of cunningness, they always become a little different immediately after they are conveyed. A little distorted, a little foolish."
 
   “文字因为狡猾的本质而不能很好地表达思想，总是在传达后立即变得有点不同。有点扭曲，有点愚蠢。”
 
   ![](https://www.languageoasis.com/blog/wp-content/uploads/2015/01/Bizarre-Languages.png)
-  
+
 * "It is hard to tell the exact feeling when cold and warm collide as in the person who crosses the hands in the winter."
   "当寒冷和温暖碰撞时，就像冬天交叉双手的人一样，很难说出确切的感觉。"
-  
+
   ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/handsInWinter.jpg)
 
 
@@ -141,3 +141,13 @@
   悖论，不是吗？"
 
   ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/Sunshine.jpg)
+
+
+
+* Melodies, songs, there exist a great many, people always didn't comprehend the connotation; 
+  Recollection, nostalgia, intertwining with convoluted emotions, they start to realize the implication;
+  Past, now, and future, the entity of the timeline, yet it is not straight, rather Gaussian. People observe us through a "cdf", whereas the "pdf" is where the truth lies. "
+  
+  旋律、歌曲，有很多，人们总是不明白其中的内涵；
+  追忆、怀旧，交织着错综复杂的情绪，开始领悟其中的寓意；
+  过去、现在和未来，时间线的实体，但它不是直的，而是高斯的。 人们通过“累积分布函数”观察我们，而“概率密度函数”是真相所在。 "
