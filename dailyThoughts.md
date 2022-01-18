@@ -122,3 +122,22 @@
   "要知道一个人的性格是由环境和成长方式塑造的，李小龙的出现是偶然的，地球上再也没有人能和他一模一样了。 李好奇、勤奋、幸运，他曾师从自不同背景的导师，尤其是吉杜克里希那穆提，他也曾是地球上最伟大的精神之一。"
 
   ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/brucelee.png)
+
+
+
+* 遥遥江上，跑者无双，天下之大，唯我独尊！
+
+  "Through the foggy cloud, where the photon lies, energy shines upon you; I knew God is being with me, he likes me, he spreads his love, hence success is right ahead."
+  "穿过雾云，光子所在的地方，能量照耀着你； 我知道上帝与我同在，他喜欢我，他传播他的爱，因此成功就在前方。"
+
+  ![]()![throughFoggy](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/throughFoggy.jpeg)
+
+
+
+* "Even though I don't have any kind of beliefs, Buddha and God always within me. 
+  Paradox, isn't it?"
+
+  "即使我没有任何信仰，佛陀和上帝总是在我心中。
+  悖论，不是吗？"
+
+  ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/Sunshine.jpg)
