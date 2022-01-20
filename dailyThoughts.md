@@ -163,3 +163,19 @@
   >
   > __Fantastic, isn't it?__
   > __Life is simply formed with all those entities.__ 
+
+
+
+* "Life is tough and may not always come to you with good fortune, hence, no matter what is going to happen, as long as you hold this ( TVP - The Venus Project ) in yourself, your mind, there is still hope. "
+
+  "The essence is we need a larger version of love, capital 'L' instead of 'l'. "
+
+  " 'L' for all mankind, 'l' for certain tribes."
+
+  “生活会很艰难，不一定总会有好运临到你，因此，无论发生什么，只要你心怀（TVP-维纳斯计划），就一定是有希望的。”
+
+  “从本质上来说我们需要更大版本的爱，大写'L'而不是'l'。”
+
+  “‘L’代表全人类，‘l’代表某些部落。”
+
+  ![](/home/loveplay1983/mywork/workstation/document/motivation/宣雄民/manuscript/images/fresco_jacques_venus.jpg)
