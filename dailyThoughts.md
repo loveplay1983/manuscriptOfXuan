@@ -179,3 +179,16 @@
   “‘L’代表全人类，‘l’代表某些部落。”
 
   ![](/home/loveplay1983/mywork/workstation/document/motivation/宣雄民/manuscript/images/fresco_jacques_venus.jpg)
+
+
+
+* "With hope, you are still alive, without hoping, life will turn ash, especially when you are in a crappy situation, even you are diagnosed as a cancer patient."
+
+  "This is what the life lessons taught me. "
+
+  “有希望，你还活着，没有希望，生活就会化为灰烬，尤其是当你处于糟糕的境地时，甚至被诊断为癌症患者。”
+
+  “这就是人生课程教给我的。”
+  ![](/home/loveplay1983/mywork/workstation/document/motivation/宣雄民/manuscript/images/lovehope.png)
+
+  
