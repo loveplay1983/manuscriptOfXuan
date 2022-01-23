@@ -182,13 +182,11 @@
 
 
 
-* "With hope, you are still alive, without hoping, life will turn ash, especially when you are in a crappy situation, even you are diagnosed as a cancer patient."
+* "With hope, you are still alive, even you are diagnosed as a cancer patient; Without hoping, life will turn ash, especially when you are in a crappy situation."
 
-  "This is what the life lessons taught me. "
+  "This is what the life lessons taught me. " 
 
-  “有希望，你还活着，没有希望，生活就会化为灰烬，尤其是当你处于糟糕的境地时，甚至被诊断为癌症患者。”
+  “有希望，你还活着，即使你被诊断为癌症患者；没有希望，生活会变成灰烬，尤其是当你处于糟糕的境地时。” 
 
-  “这就是人生课程教给我的。”
-  ![](/home/loveplay1983/mywork/workstation/document/motivation/宣雄民/manuscript/images/lovehope.png)
-
+  “这就是人生的课堂教给我的。”![](/home/loveplay1983/mywork/workstation/document/motivation/宣雄民/manuscript/images/lovehope.png)
   
