@@ -190,3 +190,11 @@
 
   “这就是人生的课堂教给我的。”![](/home/loveplay1983/mywork/workstation/document/motivation/宣雄民/manuscript/images/lovehope.png)
   
+
+
+
+* "No one could defeat himself truthfully unless he is being not aware of  such existence any longer."
+
+  "除非他不再意识到那个存在的自己，否则任何人都无法诚实地打败自己。"
+
+  ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/existence.png)
