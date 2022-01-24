@@ -105,7 +105,7 @@
 * "It is hard to tell the exact feeling when cold and warm collide as in the person who crosses the hands in the winter."
   "当寒冷和温暖碰撞时，就像冬天交叉双手的人一样，很难说出确切的感觉。"
 
-  ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/handsInWinter.jpg)
+  ![](./images/handsInWinter.jpg)
 
 
 
@@ -113,7 +113,7 @@
 
   "我认为对于生活是否有意义我并不负有什么责任，但是对于我自己拥有的却是这样的。"
 
-  ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/responseAndMeaningness.png)
+  ![](./images/responseAndMeaningness.png)
 
 
 
@@ -121,7 +121,7 @@
 * "One must know the characteristics of a person are shaped by the environment and the way he or she grows, Bruce Lee was there by chance, no one else will be the exact same as him once again on Earth. Lee was curious, diligent , and lucky,  he had tutors, mentors from different backgrounds, especially Jiddu Krishnamurti, who was one of the greatest spirits on Earth as well."
   "要知道一个人的性格是由环境和成长方式塑造的，李小龙的出现是偶然的，地球上再也没有人能和他一模一样了。 李好奇、勤奋、幸运，他曾师从自不同背景的导师，尤其是吉杜克里希那穆提，他也曾是地球上最伟大的精神之一。"
 
-  ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/brucelee.png)
+  ![](./images/brucelee.png)
 
 
 
@@ -130,7 +130,7 @@
   "Through the foggy cloud, where the photon lies, energy shines upon you; I knew God is being with me, he likes me, he spreads his love, hence success is right ahead."
   "穿过雾云，光子所在的地方，能量照耀着你； 我知道上帝与我同在，他喜欢我，他传播他的爱，因此成功就在前方。"
 
-  ![]()![throughFoggy](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/throughFoggy.jpeg)
+  ![throughFoggy](./images/throughFoggy.jpeg)
 
 
 
@@ -140,7 +140,7 @@
   "即使我没有任何信仰，佛陀和上帝总是在我心中。
   悖论，不是吗？"
 
-  ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/Sunshine.jpg)
+  ![](./images/Sunshine.jpg)
 
 
 
@@ -178,18 +178,15 @@
 
   “‘L’代表全人类，‘l’代表某些部落。”
 
-  ![](/home/loveplay1983/mywork/workstation/document/motivation/宣雄民/manuscript/images/fresco_jacques_venus.jpg)
+  ![](./images/fresco_jacques_venus.jpg)
 
 
 
-* "With hope, you are still alive, even you are diagnosed as a cancer patient; Without hoping, life will turn ash, especially when you are in a crappy situation."
+* "With hope, you are truly alive; Without hoping, life will turn ash, especially when you are in a crappy situation."
 
-  "This is what the life lessons taught me. " 
+  “怀着希望，你才真正活着； 没有希望，生活就会化为灰烬，尤其是当你处于糟糕的境地时。” 
 
-  “有希望，你还活着，即使你被诊断为癌症患者；没有希望，生活会变成灰烬，尤其是当你处于糟糕的境地时。” 
-
-  “这就是人生的课堂教给我的。”![](/home/loveplay1983/mywork/workstation/document/motivation/宣雄民/manuscript/images/lovehope.png)
-  
+  <img src="./images/hope.png" style="zoom:150%;" />
 
 
 
@@ -197,4 +194,4 @@
 
   "除非他不再意识到那个存在的自己，否则任何人都无法诚实地打败自己。"
 
-  ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/existence.png)
+  ![](./images/existence.png)
