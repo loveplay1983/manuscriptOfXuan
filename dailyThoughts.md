@@ -203,3 +203,11 @@
   "时间和空间形成了构建现实体验，进而导致思想被限制于其中的框架。”
 
   ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/timeSpace.png)
+
+* The world is full of unpredictability, and it is a set of elements which we call life.
+  Some say, "Oh my life is unfair!", and my understanding is, "The fairness is successful combination of fairness, and unfairness!"
+
+  世界充满了不可预测性，它是我们称之为生命的的元素集合。
+  有人说，“哦，我的生活是不公平的！”，但我的理解是，“公平是公平和不公平的成功结合！”
+
+  ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/fairness.png)
