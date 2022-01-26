@@ -195,3 +195,11 @@
   "除非他不再意识到那个存在的自己，否则任何人都无法诚实地打败自己。"
 
   ![](./images/existence.png)
+
+
+
+* "Time and Space are the frameworks within which the mind is constrained to construct its experience of reality.	"
+
+  "时间和空间形成了构建现实体验，进而导致思想被限制于其中的框架。”
+
+  ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/timeSpace.png)
