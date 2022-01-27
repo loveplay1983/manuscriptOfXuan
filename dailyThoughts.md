@@ -211,3 +211,12 @@
   有人说，“哦，我的生活是不公平的！”，但我的理解是，“公平是公平和不公平的成功结合！”
 
   ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/fairness.png)
+
+
+
+* "Never take life too seriously. It's a mere dance, enjoy the melody instead of worrying about what note is coming next which would cause one to miss the real meaningfulness of his journey."
+
+  "对待生活切勿过于严肃。 它仅仅是一支舞蹈，享受旋律而不要担心接下来会出现什么音符，这会导致一个人错过他旅程的真正意义。”
+
+  ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/dancelife.png)
+
