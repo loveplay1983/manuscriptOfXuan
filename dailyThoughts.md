@@ -147,12 +147,13 @@
 * Melodies, songs, there exist a great many, people always didn't comprehend the connotation; 
   Recollection, nostalgia, intertwining with convoluted emotions, they start to realize the implication;
   Past, now, and future, the entity of the timeline, yet it is not straight, rather Gaussian. People observe us through a "cdf", whereas the "pdf" is where the truth lies. "
-  
+
   旋律、歌曲，有很多，人们总是不明白其中的内涵；
   追忆、怀旧，交织着错综复杂的情绪，开始领悟其中的寓意；
   过去、现在和未来，时间线的实体，但它不是直的，而是高斯的。 人们通过“累积分布函数”观察我们，而“概率密度函数”是真相所在。 "
-  
+
   > ## cdf - Cumulative Distributed Function   $Integral$
+  >
   > ## pdf - Probability Density Function         $Derivative$
   >
   > **People often observe us through the outcome or a cumulative outline, the figure, the image.**
@@ -220,3 +221,14 @@
 
   ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/dancelife.png)
 
+
+
+* "When I was young, I used to admire intelligent people; As I grow older, I admire kind people. "
+
+  “True Gorgeous men often walk on the street with ordinary faces, good hearts, and peaceful minds.”
+
+  “小时候，我崇拜聪明的人；长大后，我崇拜善良的人。”
+
+  “真正的美男子走在大街上，往往拥有平凡的面容，善良，和平静的内心。”
+
+  ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/fresco_jacques_old.jpg)
