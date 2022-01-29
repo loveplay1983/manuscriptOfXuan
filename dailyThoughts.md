@@ -232,3 +232,10 @@
   “真正的美男子走在大街上，往往拥有平凡的面容，善良，和平静的内心。”
 
   ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/fresco_jacques_old.jpg)
+
+
+
+* “The object of life is not to be on the side of the majority, but to escape finding oneself in the ranks of the insane.”
+  “生活的目的不是站在大多数人的一边，而是躲避使自己陷入疯狂的行列。”
+
+  ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/Majority-Rule-and-Minority-Rights.jpg)
