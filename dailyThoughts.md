@@ -248,3 +248,19 @@
 
   ![](./images/pain.jpg)
 
+
+
+* My new idea: People say, "It is hard to be a good man, but easier to be in a certain type of indulgence", I have translated to another version, I flip it upside down. I would say, "It is rather a simple task to achieve a good person, due to the fact that one does not need too much effort to reach it, you may not rich, but at least you can manipulate the attitude to others, the relationship is under your control; On the other side, to approach an evil mind is of course very easy thing, but it is somewhat anti-human, we are human beings :) "
+
+  我的新想法：人们总说，“做一个好人很难，某种形式的放纵似乎更容易”，我已经翻译成另一个版本，我把它颠倒过来了。 我会说：“成为一个好人是一件相当简单的事，因为一个人不需要太多的努力便可以达到，你可能并不富有，但至少你可以选择与别人相处的态度， 一切在你的控制之下；另一方面，接近某种邪恶的思想当然是件容易的事情，但它有点反人类啊，我们是人类不是吗:)”
+
+  ![](./images/goodPerson.jpg)
+
+
+
+* "Helping each other is the nature of all beings, rather than fight against."
+
+  "互助是众生的本性，而不是对抗。"
+
+  
+
