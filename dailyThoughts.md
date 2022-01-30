@@ -203,7 +203,7 @@
 
   "时间和空间形成了构建现实体验，进而导致思想被限制于其中的框架。”
 
-  ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/timeSpace.png)
+  ![](./images/timeSpace.png)
 
 * The world is full of unpredictability, and it is a set of elements which we call life.
   Some say, "Oh my life is unfair!", and my understanding is, "The fairness is successful combination of fairness, and unfairness!"
@@ -211,7 +211,7 @@
   世界充满了不可预测性，它是我们称之为生命的的元素集合。
   有人说，“哦，我的生活是不公平的！”，但我的理解是，“公平是公平和不公平的成功结合！”
 
-  ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/fairness.png)
+  ![](./images/fairness.png)
 
 
 
@@ -219,7 +219,7 @@
 
   "对待生活切勿过于严肃。 它仅仅是一支舞蹈，享受旋律而不要担心接下来会出现什么音符，这会导致一个人错过他旅程的真正意义。”
 
-  ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/dancelife.png)
+  ![](./images/dancelife.png)
 
 
 
@@ -231,11 +231,20 @@
 
   “真正的美男子走在大街上，往往拥有平凡的面容，善良，和平静的内心。”
 
-  ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/fresco_jacques_old.jpg)
+  ![](./images/fresco_jacques_old.jpg)
 
 
 
 * “The object of life is not to be on the side of the majority, but to escape finding oneself in the ranks of the insane.”
   “生活的目的不是站在大多数人的一边，而是躲避使自己陷入疯狂的行列。”
 
-  ![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/Majority-Rule-and-Minority-Rights.jpg)
+  ![](./images/Majority-Rule-and-Minority-Rights.jpg)
+
+
+
+* "Pain and suffering are always inevitable for a large intelligence and a deep heart. The really great men must, I think, have great sadness on earth."
+
+  "痛苦和磨难对于一个大智慧和一个深沉的心来说总是不可避免的。 我认为，真正伟大的人在世上一定同时承受很大的悲伤。"
+
+  ![](./images/pain.jpg)
+
