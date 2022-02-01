@@ -262,5 +262,10 @@
 
   "互助是众生的本性，而不是对抗。"
 
-  
+* "Yesterday is history, tomorrow is mystery, but today is a gift that is why it is called the present."
 
+  "昨日已成历史，明天将是神秘的，但是今天堪称礼物，这就是为什么present是这样翻译的。"
+
+  ![](./images/present.png)
+
+  
