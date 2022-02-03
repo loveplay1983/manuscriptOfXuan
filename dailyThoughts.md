@@ -12,7 +12,7 @@
 
   我们是人，所以悲伤和快乐都应该在那里。 事实是你必须学会如何控制它，继续前进，照亮别人，而不是被别人照亮。
 
-  做一个能像太阳照耀宇宙一样照耀别人的人，才是应该遵循的。
+  做一个能像太阳照耀宇宙一样照耀别人的人，才是应该遵循的。Bruce lee once said, "Martial arts is the way of expressing the arts of human body"; And to my mind, "Writing is the path to observe one's mind and spirit"
 
   活着就是要找到真相，就是做一个好人。
 
@@ -267,5 +267,11 @@
   "昨日已成历史，明天将是神秘的，但是今天堪称礼物，这就是为什么present是这样翻译的。"
 
   ![](./images/present.png)
+
+* "Bruce lee once said, "Martial arts is the way of expressing the arts of human body"; And to my mind, "Writing is the path to observe one's mind and spirit 😇, it is the way of thinking through pen, and paper"
+
+  "李小龙曾说过，“武术是人体艺术的表现方式”； 而在我看来，“写作亦是观察一个人的思想和精神的途径😇，它是用纸、笔来思索的方法”
+
+  ![](./images/arts.png)
 
   
