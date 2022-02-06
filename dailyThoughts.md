@@ -274,4 +274,33 @@
 
   ![](./images/arts.png)
 
+
+
+
+* "Life is comprised of each small achievement in everyday lives as in the area of a circle is formed by each piece of rectangle slice(Calculus); One will find the truth of life and its relation to mathematics only after the grasp of a deep understanding of both and observe it as a whole. "
+
+  "生活是由每天的一个个小成就组成的，就像圆形的面积是由每一块矩形切片（微积分）组成的； 只有对两者都有深刻的理解，并从整体上进行观察，才能找到生命的真相及其与数学的关系。"
+
+  ![](./images/life.png)
   
+  
+  
+* "Once you hit a certain age you become permanently unimpressed by a lot of shit."
+
+  "一旦你到了某个年龄段，你将对许多曾经的趣事永远都不再感兴趣。"
+
+  ![](./images/thinking.jpg)
+
+  
+
+* What one could do yesterday, does not mean a second chance in another day, one must do whatever could be done when youth; What one has today does not mean you shall own it in the next day, one ought to be living in the present; What has not happened yet, does not mean it is not going to occur in the future; so therefore, we behoove to  seize the time, grasp the moment, store resources, and polish the skills, ready for whatever may come, when things are coming, one will act rapidly, and appropriately without redundancy, which it often comes from over thinking.
+
+  “A good martial artist does not become tense, but ready. Not thinking, yet not dreaming. Ready for whatever may come. When the opponent expands, I contract; and when he contracts, I expand. And when there is an opportunity, “I” do not hit, “it” hits all by itself.”  --Bruce Lee
+
+  
+
+  “昨天能做的，不代表日后有第二次机会，年轻时能做的就必须去做； 一个人今天拥有的，不代表第二天就拥有它，一个人应该活在当下； 还没有发生的事情，不代表以后不会发生； 所以，我们应该抓紧时间，把握时机，资源储备，磨练本领，做好万全之策，当有事情发生之际，行动迅速，得体，不拖泥带水，这往往来自于过度思考。“　 - 宣雄民
+
+  “一个好的武者不会让自己变得紧张，而是时刻都准备好了。 没有过度思索，也没有做白日做梦。 为可能发生的一切做好准备。 对手前进，我退守； 当他退守时，我便前进。 当有机会时，“我”不打，“它”自己打（拳）。”　- 李小龙
+
+​		![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/I do not hit.jpg)
