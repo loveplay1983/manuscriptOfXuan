@@ -304,3 +304,11 @@
   “一个好的武者不会让自己变得紧张，而是时刻都准备好了。 没有过度思索，也没有做白日做梦。 为可能发生的一切做好准备。 对手前进，我退守； 当他退守时，我便前进。 当有机会时，“我”不打，“它”自己打（拳）。”　- 李小龙
 
 ​		![](/home/loveplay1983/workstation/document/motivation/manuscriptOfXuan/images/I do not hit.jpg)
+
+
+
+* "I think of learning to cook is equivalent of learning to program in some extent. First, you need to recognize the ingredients which is corresponding to the fundamental of coding, such as variables, statement structure, etc.; Then, you observe how others do beforehand, it points to the mimicking of coding from other programmers; After that, it is time to get your hands dirty, the initial experiences will yield real trouble for you, just like the newbie programmer would make unexpected errors which sometimes is weird, or disasters for your computer system; And lastly, as you maintain a regular practicing of such, you move toward a real experienced cook eventually, so is a programmer. "
+
+  "我认为学习烹饪在某种程度上相当于学习编程。 首先，你需要认识素材成分，这正对应了编程中的基础，如变量、语句结构等； 然后，你先观察别人是怎么做的，即模仿其他程序员的编码； 在那之后，是时候动手了，最初的经验会给你带来真正的麻烦，就像新手程序员会犯一些意想不到的错误，有时很奇怪，或者对你的计算机系统造成灾难； 最后，当你保持定期练习时，你最终会成为一名真正有经验的厨师，程序员也是如此。"
+
+  ![](./images/codingCooking.jpg)
