@@ -312,3 +312,19 @@
   "我认为学习烹饪在某种程度上相当于学习编程。 首先，你需要认识素材成分，这正对应了编程中的基础，如变量、语句结构等； 然后，你先观察别人是怎么做的，即模仿其他程序员的编码； 在那之后，是时候动手了，最初的经验会给你带来真正的麻烦，就像新手程序员会犯一些意想不到的错误，有时很奇怪，或者对你的计算机系统造成灾难； 最后，当你保持定期练习时，你最终会成为一名真正有经验的厨师，程序员也是如此。"
 
   ![](./images/codingCooking.jpg)
+
+
+
+* "There exists a feeling, just bad luck, but you are strong, and positive, which are both disadvantages and advantages. Perplexed as such, isn't it?
+
+  “有一种感觉，只是运气不好，但你很坚强，也很积极，这既是劣势也是优势。就是这样稀里糊涂的，不是吗？
+
+  
+
+* The cliche says, "Gorgeous appearances are alike, yet the interesting souls only found one in thousand. "  For me, it should be,  "spreading the wonderful soul like the virus. Hence, no more similar appearance."
+
+  俗话说，“华丽外表何其相似，有趣灵魂却是千分之一。”　我想它应该是，“如病毒般传播美妙灵魂。因此，外表不再相似。”
+
+  ![](./images/staystrong.jpg)
+
+  
