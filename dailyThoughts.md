@@ -332,4 +332,11 @@
   “这世上最大的幸福，就是有一个人，志同道合，知情识趣，患难与共，不忘初衷。她说的每一句话都能让你钦佩，她的每一个眼神，都栩栩如生，和这样的人一起生活在一起就是不负辉煌的人生。”——曹丕
   
   ![](./images/happiness.png)
+  
+
+* "Start where you are; Use what you have; Do what you can." 　~ Arthur Ashe					
+
+​       "从你所处地方始； 利用你能拥有的； 做你所能做到的。"　　～阿瑟·阿什
+
+​		![](./images/Morning0.png)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 
