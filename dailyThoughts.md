@@ -327,4 +327,9 @@
 
   ![](./images/staystrong.jpg)
 
+* "The greatest happiness in this world is to have someone, like-minded, knowledgeable, sharing weal and woe, not forgetting the original intention. Every word she says can get your admiration, every look in her eyes is vivid, with such person live together is to live up to brilliant life."  -- Cao Pi
+
+  “这世上最大的幸福，就是有一个人，志同道合，知情识趣，患难与共，不忘初衷。她说的每一句话都能让你钦佩，她的每一个眼神，都栩栩如生，和这样的人一起生活在一起就是不负辉煌的人生。”——曹丕
   
+  ![](./images/happiness.png)
+
