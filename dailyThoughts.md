@@ -333,10 +333,35 @@
   
   ![](./images/happiness.png)
   
-
 * "Start where you are; Use what you have; Do what you can." 　~ Arthur Ashe					
 
 ​       "从你所处地方始； 利用你能拥有的； 做你所能做到的。"　　～阿瑟·阿什
 
 ​		![](./images/Morning0.png)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+
+
+
+* There exists a strong connection between solving linear equations and conquering real-life problems, it is "Ax=b" where "A" represents all paths that are beneficial in helping us to get through life issues, i.e. matrix transformation factors. For "x", it is the feature vector, which represents the characteristics of ourselves, as well as the hassles of life. Lastly, vector "b" indicates a list of desirable outcomes.
+
+  The methods of resolving the linear equations vary depending on how we think, as well as the structure of matrix "A", whether we want to use "Gaussian Elimination", or "Gauss-Jordan Elimination". The complete solutions consist of a particular solution of "Ax=b", plus any possible combination for the solutions of "Ax=0", in other words, certain solutions for the definite problem, and those cannot be solved, we will have to find our way out by eliminating the uncontrollable desire, i.e. "Ax=0", the nullspace.
+
+  In conclusion, I believe whether it is music, text, view, or any other form of carrier, for them are only helpful for us to seek the solution, they are not the solution themselves, just like the "matrix transformation factors(A)", people will eventually overcome all the difficulties only by releasing themselves within from the deep down, similar for finding the solution "x" with "Ax=0", aka. the nullspace.  
+
+  
+
+  解决线性方程组和解决现实生活中的问题之间存在着密切的关联，即“Ax=b”，其中“A”代表那些有助于我们解决生活中问题的途径，即矩阵变换因子。对于“x”来说，是特征向量，代表了我们自身的特点，也代表了生活的烦恼。最后，向量“b”表示期望结果的列表。
+
+  求解线性方程组的方法取决于我们的思考方式，以及矩阵“A”的结构，我们是要使用“高斯消元法”还是“高斯-乔丹消元法”。完整解包括了“Ax=b”的特定解，加上“Ax=0”的任何可能组合解，换句话说，包括了特定问题的确定解决方案，而那些无法解决的，我们将不得不通过消除无法控制的欲望，即“Ax=0”，即零空间，找到我们的出路。
+
+  综上所述，我相信无论是音乐、文字、观点，还是其他任何形式的载体，对我们来说都只是帮助我们寻求解决方案，它们本身并不是解决方案，就像“矩阵变换因子（A） ”，人最终只有从内心深处释放自己，才能克服所有困难，类似于寻找解决方案“x”。
+
+​		![](./images/heart.png)
+
+
+
+* "There’s no easy path, you have to practice, study, and if you want to know where you’re going, you need to understand where you come from."
+
+  "没有捷径可走，你必须练习、学习，如果你想知道你要去哪里，你需要了解你来自哪里。"
+
+  ![](./images/study.png)
 
