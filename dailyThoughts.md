@@ -365,3 +365,23 @@
 
   ![](./images/study.png)
 
+
+
+* "Regularization" is not enough, I believe everyone of us needs a "Dropout" layer, which would help to reshape our mind, with which the redundant, impracticable idea can then be thrown away, since a complex neural networks with excessive synapse is inclined of erroneous determination, therefore mistakes prone. "
+
+  “正则化”是不够的，我相信我们每个人都需要一个“Dropout”层，这将有助于重塑我们的思想，然后可以抛弃多余的，不切实际的想法，因为具有过多突触的复杂神经网络倾向于判断错误，因此容易出错。 ”
+
+  "Things that most folks feel awkward, abnormal, they are not willing to do,  which will eventually lead to the greatness for people who treat it as natural, ordinary, and joyfulness."
+
+  "多数人觉得尴尬、不正常、不愿意做的事情，最终会促成那些将之视为自然、平凡、和快乐的人变得伟大。"
+
+  
+
+* "The mind is like water. When it is turbulent, things are difficult to see; When it is calm, everything becomes clear."
+  "观心如水，汹涌难见真知； 平静则万事清晰。"
+
+  ![](./images/heartAndMind.jpg)
+
+  
+
+  
