@@ -384,4 +384,34 @@
 
   
 
+* "The only freedom you have is morphing into a better you, not relations, not love, not wealth, it is you, that is the only option that one is able to manipulate. It may sound excessively arbitrary, yet is the truth everyone ought to comprehend. "                                 -- Michael Xuan
+
+  "你拥有的唯一自由是变成更好的你，不是关系，不是爱，不是财富，是你，这是一个人能够操纵的唯一选择。 这听起来可能过于武断，但这是每个人都应该理解的真理。"                ——迈克尔·宣
+
+  ![](./images/bestversion.png)
+
+
+
+* "Art is a lie that makes us realize the truth"  - Picasso
+
+  "Self-evidence truth is the beauty of humanity, which distinguishes us from the rest of species." - Xuan Xiong Min
+  
+  “艺术是让我们认识真理的谎言”    - 毕加索
+  
+  “自证(自我证明真理的能力)是人类的美妙之处，它将我们与其他物种区分开来。”  - 宣雄民
+
+​       ![](./images/beautyOfHuman.png)
+
+
+
+* "Every morning, we are born again. What we do today is the true genre of matters most."
+
+  "每天早上，我们都重生了。我们今天所做的是最重要的事情。"
+
+  ![](./images/buddha.jpg)
+
+* Life and maze
+
+  if are you trapped within, why not live with it in harmony
+
   
