@@ -410,8 +410,10 @@
 
   ![](./images/buddha.jpg)
 
-* Life and maze
+* "To live is like to walk through a maze,  each step is made by one's own decision. Sometimes, we will be trapped, a moment which allows us to ponder the situation, maybe the only outlet is to live with it in harmony,  and don't against, therefore, the new path becomes clear."
 
-  if are you trapped within, why not live with it in harmony
+  "活着就像走迷宫，每一步都是自己的决定。 有时候，我们会被困住，一个让我们思考情况的时刻，也许唯一的出路就是和它和谐共处，不要对抗，这样，新的路就会变得清晰。"
 
+  ![](./images/mazeOfLife.jpeg)
+  
   
